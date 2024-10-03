@@ -9,8 +9,8 @@ console.log("Bot Hazır");
 
 var randomMesajlar = [
 
-    "Mert💗Melis",
-    "Yıkılmam Asla !!"
+    "BelieveBot 7/24 Aktif",
+    "Kurucum: Mert"
 ]
 
 
